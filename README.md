@@ -1,4 +1,4 @@
-# 🦠 Salmonella Image Classification
+# 🦠 Salmonella Feces Image Classification
 
 This repository presents a deep learning and hybrid machine learning framework for classifying poultry fecal images as **Salmonella-Positive** or **Negative**. It includes training, evaluation, and feature-based classification pipelines using state-of-the-art convolutional neural networks (CNNs) and traditional ML models.
 
