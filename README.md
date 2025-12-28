@@ -74,3 +74,9 @@ pip install numpy pandas matplotlib seaborn scikit-learn opencv-python
 
 # Optional: For augmentations
 pip install albumentations
+
+---
+
+## 📂 Dataset Structure
+
+Organize your image dataset as follows:
