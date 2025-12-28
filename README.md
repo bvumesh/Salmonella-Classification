@@ -95,3 +95,17 @@ Organize your image dataset as follows:
       └── salmo/
 ```
 📌 Update all path variables in the notebooks to match your dataset location.
+
+---
+
+## 📈 Outputs Generated
+
+- Model training curves (accuracy/loss)
+- Saved model weights (.h5, .pth)
+- ROC and PR curves
+- Confusion matrices
+- Classification reports
+- Exported Excel summary (optional)
+
+---
+
