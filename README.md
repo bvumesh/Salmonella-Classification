@@ -109,3 +109,25 @@ Organize your image dataset as follows:
 
 ---
 
+📝 Usage Example
+🔹 Training a VGG16 Model
+
+Modify dataset paths in the notebook:
+```python
+train_dir = '/path/to/train'
+val_dir = '/path/to/valid'
+test_dir = '/path/to/test'
+```
+
+Run training:
+```python
+model.fit(train_generator, validation_data=val_generator, epochs=100)
+```
+
+Evaluate and save the model:
+```python
+model.evaluate(test_generator)
+model.save("vgg16_finetuned_model.h5")
+```
+
+---
