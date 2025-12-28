@@ -74,9 +74,24 @@ pip install numpy pandas matplotlib seaborn scikit-learn opencv-python
 
 # Optional: For augmentations
 pip install albumentations
+```
 
 ---
 
 ## 📂 Dataset Structure
 
 Organize your image dataset as follows:
+
+```bash
+/dataset/
+  ├── train/
+  │   ├── healthy/
+  │   └── salmo/
+  ├── valid/
+  │   ├── healthy/
+  │   └── salmo/
+  └── test/
+      ├── healthy/
+      └── salmo/
+```
+📌 Update all path variables in the notebooks to match your dataset location.
