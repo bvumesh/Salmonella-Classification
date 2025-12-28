@@ -109,8 +109,8 @@ Organize your image dataset as follows:
 
 ---
 
-📝 Usage Example
-🔹 Training a VGG16 Model
+## 📝 Usage Example
+# 🔹 Training a VGG16 Model
 
 Modify dataset paths in the notebook:
 ```python
