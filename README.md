@@ -131,3 +131,14 @@ model.save("vgg16_finetuned_model.h5")
 ```
 
 ---
+
+## 📌 Future Enhancements
+
+Add lightweight models for mobile deployment (e.g., TFLite, ONNX)
+
+Improve domain generalization across geographies
+
+Include multi-label or year-wise Salmonella strains (extended classes)
+
+---
+
