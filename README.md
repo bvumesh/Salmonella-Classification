@@ -144,4 +144,4 @@ Include multi-label or year-wise Salmonella strains (extended classes)
 
 ## 📄 License
 
-This project is open source — Feel free to use and modify the code for your research or application purposes.
+This project is open source — feel free to use and modify the code for your research or application purposes.
