@@ -17,10 +17,10 @@ This repository presents a deep learning and hybrid machine learning framework f
 ---
 ## Execution Order
 
-Step 1: Run Massive_Model_Training.ipynb
-Step 2: Run Fine_tuned_Training_to_Save_PTH_Files.ipynb
-Step 3: Run Metrics_using_PTH_files.ipynb
-Step 4: Run Hybrid_DL_ML_Classifier.ipynb
+- Step 1: Run Massive_Model_Training.ipynb
+- Step 2: Run Fine_tuned_Training_to_Save_PTH_Files.ipynb
+- Step 3: Run Metrics_using_PTH_files.ipynb
+- Step 4: Run Hybrid_DL_ML_Classifier.ipynb
 
 ## 🧠 Models Included in Massive Model Training
 
